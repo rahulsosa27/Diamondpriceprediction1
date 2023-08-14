@@ -29,27 +29,27 @@ The dataset used in the Diamond Price Prediction Web App project is a collection
 - Back-End: Python (Flask framework)
 - MachineLearning: Linear Regression, Lasso Regression, Ridge Regression, Decision Tree
 
-### **How to run?:**
-## Step 1: Clone the repository
+## **How to run?:**
+### Step 1: Clone the repository
 git clone https://github.com/saksham-bhardwaj1/Diamond_Price_Prediction
 
-## Step 2- Create a conda environment after opening the repository
+### Step 2- Create a conda environment after opening the repository
 conda create -p venv python==3.8
 conda activate venv/
 
-## Step 3 - Install the requirements
+### Step 3 - Install the requirements
 pip install -r requirements.txt
 
-## Step 4 - Run the application server
+### Step 4 - Run the application server
 python application.py
 
-## Step 5-
+### Step 5-
 1. Visit the web app. :- http://127.0.0.1:5000/
 2. Enter the attributes of the diamond in the input form.
 3. Click the "Predict" button.
 4. Receive the predicted price of the diamond.
 
-### **Contributions:**
+## **Contributions:**
 Contributions to this project are welcome! If you have ideas for improvement, bug fixes, or additional features, feel free to create a pull request or open an issue.
 
 
