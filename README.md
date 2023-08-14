@@ -1,5 +1,8 @@
 #  Diamond Price Prediction Web App
 
+[![Project Video](https://img.youtube.com/vi/JQsAD4AEKsY)](https://youtu.be/JQsAD4AEKsY)
+
+
 ### Overview
 The Diamond Price Prediction Web App is a user-friendly and interactive web application designed to predict the price of diamonds based on various attributes. This project demonstrates the integration of a machine learning model with a web interface to provide a seamless experience for users interested in estimating the value of their diamonds.
 
