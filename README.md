@@ -1,6 +1,6 @@
 #  Diamond Price Prediction Web App
-
-[![Project Video](https://img.youtube.com/vi/JQsAD4AEKsY)](https://youtu.be/JQsAD4AEKsY)
+## Project Video:-
+[![Project Video](https://img.youtube.com/vi/JQsAD4AEKsY/maxresdefault.jpg)](https://youtu.be/JQsAD4AEKsY)
 
 
 ### Overview
